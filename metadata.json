@@ -1,0 +1,6 @@
+{
+  "name": "Verificação de Status",
+  "description": "Página de verificação de segurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
